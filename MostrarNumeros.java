@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class MostrarNumeros
 {
-    public static void main(String[] args) {
+    public static vox main(String[] args) {
         Scanner sc  = new Scanner(System.in);
         System.out.println("Por favor ingresa el primer número: ");
         double numero1 = sc.nextDouble();
